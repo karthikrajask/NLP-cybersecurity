@@ -25,8 +25,7 @@ Create a virtual environment and install dependencies:
 ## How to run the Streamlit chatbot
 
 1. Place your trained model in `models/` (e.g., `models/ncrp_model.joblib`).
-2. Create `streamlit_app.py` using the example provided below (or use your own).
-3. Run:
+2. Run:
 ```bash
 streamlit run streamlit_app.py
 ```
